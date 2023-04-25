@@ -83,7 +83,7 @@ Then, run the following (compiling takes up to 30 min).
 
 ```commandline
 cd ..
-git clone https://github.com/facebookresearch/xformers.git
+git clone https://github.com/tucommenceapousser/xformers.git
 cd xformers
 git submodule update --init --recursive
 pip install -r requirements.txt
